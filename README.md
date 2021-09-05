@@ -1,2 +1,2 @@
-# hr-employee-attrition
-Python Machine Learning project on HR attrition solution. In this project we try to help HRs identify employees who are likely to leave the company.
+# Car Sales
+Python Machine Learning project on Car Saes. In this project we will explore the car data sales
